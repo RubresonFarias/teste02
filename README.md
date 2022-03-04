@@ -4,3 +4,4 @@
  - Lasanha
  - Pavê
  - Strogonoff
+ - Bolo de cenoura
